@@ -1,25 +1,98 @@
-Víctor Julio Chavarría Ordoñez
-Computer Engineering student at Instituto Tecnológico de Costa Rica
+<h1 align="center">Hi 👋, I'm Víctor Julio Chavarría Ordoñez</h1>
 
-Emailvictorjulioch777@gmail.com GitHubvictorjulioch777-ui Costa Rica Languages ES native, EN B2
+<h3 align="center">
+Computer Engineering Student at Instituto Tecnológico de Costa Rica
+</h3>
 
-About
-I am a Computer Engineering student, and I work with Linux, specifically the Ubuntu distribution. I have knowledge of Python and web development, and I am interested in continuing to strengthen my skills in programming, application development, and building technological solutions.
+<p align="center">
+  <strong>Python · Web Development · Linux Ubuntu · GitHub · Algorithmic Problem Solving</strong>
+</p>
 
-I enjoy learning new tools, solving problems through code, and creating projects that help me grow as a developer. I am also interested in further exploring areas such as backend development, automation, databases, and software development best practices.
+<p align="center">
+  <a href="mailto:victorjulioch777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victorjulioch777%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/victorjulioch777-ui">
+    <img src="https://img.shields.io/badge/GitHub-victorjulioch777--ui-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Currently contributing to a workflow-automation startup (n8n-like platform) and to internal university software at TEC, while tutoring discrete math, linear algebra and Python on the side.
+---
 
-Languages
-Python 
+## 👨‍💻 About Me
 
-DevOps & Cloud
-Linux Git
+I am a Computer Engineering student at Instituto Tecnológico de Costa Rica.
 
-What I Work On
-Algorithmic problem solving — I practice solving programming and algorithmic problems to improve my logical thinking, coding skills, and ability to design efficient solutions.
-Python programming — I work with Python to build scripts, solve computational problems, automate tasks, and develop small software projects.
-Linux environment — I use Linux, specifically Ubuntu, as part of my development workflow. I am comfortable working with the terminal, managing files, installing tools, and using Linux commands for programming tasks.
-GitHub and version control — I use Git and GitHub to manage projects, track changes, organize code, and improve collaboration practices. I am interested in writing cleaner commits and maintaining well-structured repositories.
-Web development — I have knowledge of web development and continue learning how to create functional, organized, and user-friendly web applications.
-Continuous learning — I am always looking to improve my technical skills, learn new technologies, and apply good software development practices in academic and personal projects.
+I work with Linux, specifically the Ubuntu distribution, and I have knowledge of Python and web development. I am interested in improving my programming skills, building useful applications, and creating technological solutions through clean and organized code.
+
+I enjoy learning new tools, solving problems through code, and working on projects that help me grow as a developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🐧 Tools & Environment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 What I Work On
+
+### 🧠 Algorithmic Problem Solving
+
+I practice solving algorithmic and programming problems to improve my logical thinking, coding skills, and ability to create efficient solutions.
+
+### 🐍 Python Programming
+
+I use Python to solve computational problems, create scripts, automate simple tasks, and build small software projects.
+
+### 🐧 Linux Ubuntu
+
+I use Ubuntu as part of my development environment. I work with the terminal, manage files, install tools, and use Linux commands for programming tasks.
+
+### 🔧 GitHub & Version Control
+
+I use Git and GitHub to organize my projects, track changes, manage repositories, and improve my workflow as a developer.
+
+### 🌐 Web Development
+
+I have knowledge of web development and continue learning how to create organized, functional, and user-friendly websites and applications.
+
+### 📚 Continuous Learning
+
+I am constantly learning new technologies, improving my technical skills, and applying good programming practices in academic and personal projects.
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:victorjulioch777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victorjulioch777%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/victorjulioch777-ui">
+    <img src="https://img.shields.io/badge/GitHub-victorjulioch777--ui-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Always learning, always building."</em>
+</p>
