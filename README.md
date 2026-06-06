@@ -34,8 +34,6 @@ I enjoy learning new tools, solving problems through code, and working on projec
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Web Development
 
@@ -78,15 +76,6 @@ I have knowledge of web development and continue learning how to create organize
 
 I am constantly learning new technologies, improving my technical skills, and applying good programming practices in academic and personal projects.
 
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:victorjulioch777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-victorjulioch777%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/victorjulioch777-ui">
     <img src="https://img.shields.io/badge/GitHub-victorjulioch777--ui-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
