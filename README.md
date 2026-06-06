@@ -75,13 +75,3 @@ I have knowledge of web development and continue learning how to create organize
 ### 📚 Continuous Learning
 
 I am constantly learning new technologies, improving my technical skills, and applying good programming practices in academic and personal projects.
-
-    <img src="https://img.shields.io/badge/GitHub-victorjulioch777--ui-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Always learning, always building."</em>
-</p>
