@@ -25,6 +25,8 @@ I am a Computer Engineering student at Instituto Tecnológico de Costa Rica.
 
 I work with Linux, specifically the Ubuntu distribution, and I have knowledge of Python and web development. I am interested in improving my programming skills, building useful applications, and creating technological solutions through clean and organized code.
 
+Ahora aprendi Java, C++, Express, Node.js, Mongo DB y Postman
+
 I enjoy learning new tools, solving problems through code, and working on projects that help me grow as a developer.
 
 ---
